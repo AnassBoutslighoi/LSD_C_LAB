@@ -10,7 +10,7 @@ float *descente(float A[N][N], float B[N], int n)
   /* Here we allocate the result verctor \
   (you're gonna do it yourself in the next exercises)*/
   X = malloc(sizeof(float) * n);
-  
+   
 
   /******Implement the solution here******/
   /***************************************/
